@@ -1,13 +1,9 @@
 {
-  "name": "leafleteditablepolylinenpm",
-  "version": "1.0.0",
+  "name": "leaflet-editable-polyline",
+  "version": "1.0.3",
   "description": "",
   "main": "dist/leaflet-editable-polyline.js",
   "dependencies": {
-    "leaflet": "^1.3.1",
-    "lodash": "^4.17.10",
-    "vue": "^2.5.16",
-    "vue2-leaflet": "^1.0.2"
   },
   "devDependencies": {
     "webpack": "^4.7.0",
@@ -17,7 +13,15 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SupriyaSudhindra/leaflet-editable-polyline.git"
+  },
   "keywords": ["editable leaflet polyline"],
   "author": "Supriya S<supriya.sudhindra@politrontech.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SupriyaSudhindra/leaflet-editable-polyline/issues"
+  },
+  "homepage": "https://github.com/SupriyaSudhindra"
 }

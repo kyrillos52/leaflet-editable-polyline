@@ -1,5 +1,5 @@
 # Leaflet.js Editable Polylines plugin
-
+This is the npm version of the plugin <a href="https://github.com/tkrajina/leaflet-editable-polyline">leaflet-editable-polyline</a>.
 **Work in progress**
 
 ## Why another editable polyline plugin?
