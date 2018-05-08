@@ -1,10 +1,9 @@
 {
   "name": "leaflet-editable-polyline",
-  "version": "1.0.3",
+  "version": "1.0.7",
   "description": "",
   "main": "dist/leaflet-editable-polyline.js",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "webpack": "^4.7.0",
     "webpack-cli": "^2.1.2"
@@ -17,7 +16,11 @@
     "type": "git",
     "url": "https://github.com/SupriyaSudhindra/leaflet-editable-polyline.git"
   },
-  "keywords": ["editable leaflet polyline"],
+  "keywords": [
+    "editable",
+    "leaflet",
+    "polyline"
+  ],
   "author": "Supriya S<supriya.sudhindra@politrontech.com>",
   "license": "ISC",
   "bugs": {
