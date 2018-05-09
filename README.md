@@ -2,6 +2,8 @@
 This is the npm version of the plugin <a href="https://github.com/tkrajina/leaflet-editable-polyline">leaflet-editable-polyline</a>.
 **Work in progress**
 
+VueJS version of this also available [vue2-leaflet-editablepolyline](https://github.com/SupriyaSudhindra/vue2-leaflet-editablepolyline).
+
 ## Why another editable polyline plugin?
 
 Most editable polylines have performance problems on bigger polylines because of too many markers shown on the map.
